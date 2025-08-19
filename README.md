@@ -1,2 +1,2 @@
-# primerepo
+# primerrepo
 primer repo
